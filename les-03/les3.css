@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+/* Titel */
+h1{ 
+    color: black;
+    font-family: Helvetica;
+    text-align: center;
+}
+/* Inleiding + Uitvoering */
+p{
+    color: black;
+    font-family: Helvetica;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+/* Ingredienten */
+p2{
+    color: black;
+    font-family: Helvetica;
+    text-align: center;
+    margin-left: 750px;
+}
